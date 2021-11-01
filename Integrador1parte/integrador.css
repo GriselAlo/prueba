@@ -1,0 +1,67 @@
+.nav-item5{
+    background-color: green;
+}
+
+.imagen{
+    
+    -webkit-filter: brightness(60%)
+}
+
+   .carousel-caption {
+    position: absolute;
+    top: 30%;
+    left: 30vw;
+    width: 100%;
+    color: white;
+    
+  }
+  
+  .botones{
+    position: absolute;
+    top: 50%;
+    left: 75vw;
+    width: 100%;
+      
+  }
+
+  .section{
+    height: 60vh;
+}
+   
+  .div-der{
+     
+    background-size: cover;
+    background-image: url(honolulu.jpg)
+    
+}
+.formulario{
+    width: 60%;
+    margin: auto;
+
+}
+
+.boton-enviar{
+   height: 200%;
+    background-color: #94cc3c;
+    border-color: #94cc3c;
+    color: #fff;
+}
+
+.contenedor1{
+    
+   margin-top: 4%;
+   height: 20%;
+   
+   background-color: rgb(11, 11, 165);
+  
+    
+}
+
+.nav-link{
+    padding: 7px 30px;
+    
+    color: white;
+    
+}
+
+
